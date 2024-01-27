@@ -1,0 +1,11 @@
+Yazdir hesap-makinesine-hoşgeldiniz-BemLang
+Yazdir yapmak-istediğin-işlemi-seç
+
+okut ilk-sayi
+okut ikinci-sayi
+
+toplam  = ilk-sayi + ikinci-sayi
+çarp =  ilk-sayi * ikinci-sayi
+bol = ilk-sayi / ikinci-sayi
+cikar =  ilk-sayi - ikinci-sayi
+Yazdirisle çarp
